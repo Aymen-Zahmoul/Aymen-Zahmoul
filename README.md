@@ -1,5 +1,5 @@
 # 💫 About Me:
-computer engineering student ,aiming to become a specialist in cybersec<br>i know how to code in python ,c ,c++,html,css,java script and sql with experience on network administration and automation<br>
+comp sci engineering student <br>
 
 
 ## 🌐 Socials:
